@@ -18,6 +18,8 @@ namespace tp_web_equipo_17B
         {
             string voucher = TextVoucher.Text;
             LblCanjenado.Text = "Canjeando voucher: " + voucher;
+
+            Response.Redirect("ElegiPremio.aspx");
         }
     }
 }
