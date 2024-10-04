@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing.Printing;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -16,6 +17,7 @@ namespace tp_web_equipo_17B
 
         protected void BtnVoucher_Click(object sender, EventArgs e)
         {
+
             string voucher = TextVoucher.Text;
             LblCanjenado.Text = "Canjeando voucher: " + voucher;
 

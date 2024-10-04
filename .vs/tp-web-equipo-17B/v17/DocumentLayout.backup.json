@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\",
+  "WorkspaceRootPath": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17b\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|c:\\users\\joaqu\\onedrive\\escritorio\\nueva carpeta (9)\\tp-web-equipo-17b\\tp-web-equipo-17b\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17b\\canjevoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\canjevoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17b\\canjevoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\canjevoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|c:\\users\\54115\\desktop\\tp-web-equipo-17b\\tp-web-equipo-17b\\tp-web-equipo-17b\\ingresadatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17b\\ingresadatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\ingresadatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17b\\elegipremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\elegipremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17b\\elegipremio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17b\\elegipremio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\elegipremio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17b\\canjevoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\canjevoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17b\\canjevoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\canjevoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17b\\elegipremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\elegipremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IngresaDatos.aspx",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\IngresaDatos.aspx",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\IngresaDatos.aspx",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\IngresaDatos.aspx",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\IngresaDatos.aspx",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\IngresaDatos.aspx",
               "RelativeToolTip": "tp-web-equipo-17B\\IngresaDatos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -51,24 +51,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ElegiPremio.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\ElegiPremio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\ElegiPremio.aspx.cs",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\ElegiPremio.aspx.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\ElegiPremio.aspx.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\ElegiPremio.aspx.cs",
               "RelativeToolTip": "tp-web-equipo-17B\\ElegiPremio.aspx.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:20:49.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T20:20:49.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ElegiPremio.aspx",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\ElegiPremio.aspx",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\ElegiPremio.aspx",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\ElegiPremio.aspx",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\ElegiPremio.aspx",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\ElegiPremio.aspx",
               "RelativeToolTip": "tp-web-equipo-17B\\ElegiPremio.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -77,11 +76,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CanjeVoucher.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\CanjeVoucher.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\CanjeVoucher.aspx.cs",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\CanjeVoucher.aspx.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\CanjeVoucher.aspx.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\CanjeVoucher.aspx.cs",
               "RelativeToolTip": "tp-web-equipo-17B\\CanjeVoucher.aspx.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,11 +89,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CanjeVoucher.aspx",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\CanjeVoucher.aspx",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\CanjeVoucher.aspx",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\CanjeVoucher.aspx",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\CanjeVoucher.aspx",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\CanjeVoucher.aspx",
               "RelativeToolTip": "tp-web-equipo-17B\\CanjeVoucher.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -105,9 +104,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\Site.Master",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\Site.Master",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\Site.Master",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\tp-web-equipo-17B\\tp-web-equipo-17B\\tp-web-equipo-17B\\Site.Master*",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\Site.Master*",
               "RelativeToolTip": "tp-web-equipo-17B\\Site.Master*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
