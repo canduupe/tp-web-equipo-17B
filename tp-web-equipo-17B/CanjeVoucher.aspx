@@ -2,6 +2,10 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
+<div class="row">
+
+    <div class="col-2"></div>   
+    <div class="col">
     <div>
         <asp:Label ID="LblVoucher" runat="server" Text="Ingresá el código de tu voucher!"></asp:Label>
     </div>
@@ -14,5 +18,8 @@
     <div>
         <asp:Label ID="LblCanjenado" runat="server"></asp:Label>
     </div>
+    </div>   
+    <div class="col-2"></div>   
+</div>
 
 </asp:Content>
