@@ -28,7 +28,7 @@
                 <td><asp:TextBox ID="txtCiudad" runat="server"></asp:TextBox></td>
 
                 <td><asp:Label ID="lblCP" runat="server" Text="CP"></asp:Label></td>
-                <td><asp:TextBox ID="txtCP" runat="server"></asp:TextBox></td>
+                <td><asp:TextBox ID="txtCP" AutoPostBack="true"  runat="server"></asp:TextBox></td>
             </tr>
 
             <tr>
@@ -37,7 +37,7 @@
             </tr>
 
             <tr>
-                <td><asp:Button ID="btnParticipar" runat="server" Text="Participar!" /></td>  
+                <td><asp:Button ID="btnParticipar" CssClass="Botones btn btn-primary" runat="server" Text="Participar!" /></td>  
             </tr>
 
     </table>

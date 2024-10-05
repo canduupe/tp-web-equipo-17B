@@ -4,7 +4,7 @@
 
     <h1>Elegí tu premio</h1>
 
-    <asp:Button ID="BtnCargaDatos" runat="server" OnClick="BtnCargaDatos_Click" Text="Siguente" />
+    <asp:Button ID="BtnCargaDatos" runat="server" CssClass="Botones btn btn-success" OnClick="BtnCargaDatos_Click" Text="Siguente" />
    
     <a href= "CanjeVoucher">Regresar a la página anterior</a>
 

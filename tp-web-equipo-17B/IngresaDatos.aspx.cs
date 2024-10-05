@@ -11,7 +11,8 @@ namespace tp_web_equipo_17B
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if(!IsPostBack)
+            txtCP.Text = "****";
         }
     }
 }

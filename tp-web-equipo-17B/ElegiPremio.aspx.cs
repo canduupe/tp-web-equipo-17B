@@ -16,7 +16,7 @@ namespace tp_web_equipo_17B
 
         protected void BtnCargaDatos_Click(object sender, EventArgs e)
         {
-            Response.Redirect("IngresaDatos.aspx");
+            Response.Redirect("IngresaDatos.aspx",false);
         }
     }
 }
