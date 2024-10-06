@@ -23,7 +23,7 @@ namespace Negocio
                 {
                     Marca marca = new Marca
                     {
-                        MarcaID = (int)datos.Lector["id"],
+                        Id = (int)datos.Lector["id"],
                         Descripcion = (string)datos.Lector["Descripcion"]
                     };
 

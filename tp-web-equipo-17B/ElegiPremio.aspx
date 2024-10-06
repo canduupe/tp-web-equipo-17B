@@ -2,49 +2,36 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
-    <h1>Elegí tu premio</h1>
-
-    <table>
-        <tr>
-            <td>
-                <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </td>
+    <h1 class="text-center">Elegí tu premio</h1>
+    <br/>
 
 
-            <td>
-                <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </td>
+    <div class="row g-4  gx-4" >  
+        <%
+            foreach (Dominio.Articulo arti in ListaArticulos)
+            {
+                %>
+        <div class="card mx-3" style="width: 18rem;">
 
-            <td>
-                <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="Boton btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </td>
+        <div class="card-body">
+            <h5 class="card-title"><%: arti.Nombre %></h5>
+            <p class="card-text"><%: arti.Descripcion %></p>
+            <asp:Button ID="Button1" runat="server" CssClass="btn btn-success" OnClick="BtnCargaDatos_Click" Text="¡Canjeame!" />
+        </div>
+        </div>
+        <%} %>
 
-        </tr>
-    </table>
+    </div>
 
-    <asp:Button ID="BtnCargaDatos" runat="server" CssClass="Botones btn btn-success" OnClick="BtnCargaDatos_Click" Text="Siguente" />
+    
 
-    <a href="CanjeVoucher">Regresar a la página anterior</a>
+
+
+
+
+    <div class="Boton">
+        <a href="CanjeVoucher" class="Boton">Regresar</a>
+    </div>
+
 
 </asp:Content>

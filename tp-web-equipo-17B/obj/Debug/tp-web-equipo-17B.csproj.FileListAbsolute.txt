@@ -368,3 +368,7 @@ C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\tp-web-eq
 C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\tp-web-equipo-17B\bin\roslyn\vbc.exe.config
 C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\tp-web-equipo-17B\bin\roslyn\vbc.rsp
 C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\tp-web-equipo-17B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\tp-web-equipo-17B\bin\Dominio.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\tp-web-equipo-17B\bin\Negocio.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\tp-web-equipo-17B\bin\Dominio.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\tp-web-equipo-17B\bin\Negocio.pdb

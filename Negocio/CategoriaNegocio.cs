@@ -24,7 +24,7 @@ namespace Negocio
                 {
                     Categoria categoria = new Categoria
                     {
-                        IdCategoria = (int)datos.Lector["id"],
+                        Id = (int)datos.Lector["id"],
                         Descripcion = (string)datos.Lector["Descripcion"]
                     };
 
