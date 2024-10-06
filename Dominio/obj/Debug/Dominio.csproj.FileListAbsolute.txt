@@ -1,6 +1,0 @@
-C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Dominio\bin\Debug\Dominio.dll
-C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Dominio\bin\Debug\Dominio.pdb
-C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
-C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
-C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Dominio\obj\Debug\Dominio.dll
-C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Dominio\obj\Debug\Dominio.pdb

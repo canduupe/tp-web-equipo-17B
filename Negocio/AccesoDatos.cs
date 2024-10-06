@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.SqlClient;
 
-namespace Negocioo
+namespace Negocio
 {
     public class AccesoDatos
     {
@@ -16,11 +16,11 @@ namespace Negocioo
         {
             get { return lector; }
         }
-        
+
         public AccesoDatos()
         {
             conexion = new SqlConnection("server=.\\SQLEXPRESS; database=CATALOGO_P3_DB; integrated security=true;");
-            comando = new SqlCommand(); 
+            comando = new SqlCommand();
         }
 
         public void setearConsulta(string consulta)
@@ -37,7 +37,7 @@ namespace Negocioo
         public void realizarLectura()
         {
             comando.Connection = conexion;
-            
+
             try
             {
                 conexion.Open();
@@ -68,7 +68,10 @@ namespace Negocioo
         {
             if (lector != null)
                 lector.Close();
-                conexion.Close();
+            conexion.Close();
         }
+
+
+
     }
 }
