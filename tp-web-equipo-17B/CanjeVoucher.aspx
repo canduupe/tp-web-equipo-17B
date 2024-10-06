@@ -13,7 +13,7 @@
         <asp:TextBox ID="TextVoucher" CssClass="form-control" runat="server"></asp:TextBox>
     </div>
     <div>
-        <asp:Button ID="BtnVoucher" CssClass="Botones btn btn-primary" runat="server" OnClick="BtnVoucher_Click" Text="Ingresar" />
+        <asp:Button ID="BtnVoucher" CssClass="Boton  btn btn-primary" runat="server" OnClick="BtnVoucher_Click" Text="Ingresar" />
     </div>
     <div>
         <asp:Label ID="LblCanjenado" runat="server"></asp:Label>

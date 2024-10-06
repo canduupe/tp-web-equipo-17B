@@ -1,0 +1,9 @@
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocioo\bin\Debug\Negocioo.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocioo\bin\Debug\Negocioo.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocioo\bin\Debug\Dominio.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocioo\bin\Debug\Dominio.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocioo\obj\Debug\Negocioo.csproj.AssemblyReference.cache
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocioo\obj\Debug\Negocioo.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocioo\obj\Debug\Negocioo.csproj.Up2Date
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocioo\obj\Debug\Negocioo.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocioo\obj\Debug\Negocioo.pdb

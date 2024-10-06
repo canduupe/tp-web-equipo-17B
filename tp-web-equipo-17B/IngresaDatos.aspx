@@ -37,7 +37,7 @@
             </tr>
 
             <tr>
-                <td><asp:Button ID="btnParticipar" CssClass="Botones btn btn-primary" runat="server" Text="Participar!" /></td>  
+                <td><asp:Button ID="btnParticipar" CssClass="Boton btn btn-primary" runat="server" Text="Participar!" /></td>  
             </tr>
 
     </table>
