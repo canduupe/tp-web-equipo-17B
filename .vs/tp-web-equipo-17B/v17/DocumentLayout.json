@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|c:\\users\\joaqu\\onedrive\\escritorio\\nueva carpeta (9)\\tp-web-equipo-17b\\negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|c:\\users\\joaqu\\onedrive\\escritorio\\nueva carpeta (9)\\tp-web-equipo-17b\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|c:\\users\\joaqu\\onedrive\\escritorio\\nueva carpeta (9)\\tp-web-equipo-17b\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|c:\\users\\joaqu\\onedrive\\escritorio\\nueva carpeta (9)\\tp-web-equipo-17b\\negocio\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0CAC24-9C59-4122-8E51-42155A890F2A}|Dominio\\Dominio.csproj|c:\\users\\joaqu\\onedrive\\escritorio\\nueva carpeta (9)\\tp-web-equipo-17b\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0CAC24-9C59-4122-8E51-42155A890F2A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|c:\\users\\joaqu\\onedrive\\escritorio\\nueva carpeta (9)\\tp-web-equipo-17b\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFB10CE5-FC70-41EC-98F1-9128EF86CB9E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0CAC24-9C59-4122-8E51-42155A890F2A}|Dominio\\Dominio.csproj|c:\\users\\joaqu\\onedrive\\escritorio\\nueva carpeta (9)\\tp-web-equipo-17b\\dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0CAC24-9C59-4122-8E51-42155A890F2A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|c:\\users\\joaqu\\onedrive\\escritorio\\nueva carpeta (9)\\tp-web-equipo-17b\\tp-web-equipo-17b\\ingresadatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17b\\ingresadatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8AA96722-2233-41FB-ACA3-0742906DF744}|tp-web-equipo-17B\\tp-web-equipo-17B.csproj|solutionrelative:tp-web-equipo-17b\\ingresadatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -39,6 +55,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ImagenNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Negocio\\ImagenNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ImagenNegocio.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Negocio\\ImagenNegocio.cs",
+              "RelativeToolTip": "Negocio\\ImagenNegocio.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:43:17.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:42:51.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:41:19.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Negocio\\Negocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Negocio.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Negocio\\Negocio.cs",
+              "RelativeToolTip": "Negocio\\Negocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:38:51.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:14:15.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
@@ -51,20 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Dominio\\Class1.cs",
-              "RelativeDocumentMoniker": "Dominio\\Class1.cs",
-              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\Dominio\\Class1.cs",
-              "RelativeToolTip": "Dominio\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T00:18:34.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IngresaDatos.aspx",
               "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\IngresaDatos.aspx",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\IngresaDatos.aspx",
@@ -72,12 +140,11 @@
               "RelativeToolTip": "tp-web-equipo-17B\\IngresaDatos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-05T23:12:17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T23:12:17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ElegiPremio.aspx",
               "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\ElegiPremio.aspx",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\ElegiPremio.aspx",
@@ -89,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CanjeVoucher.aspx",
               "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\CanjeVoucher.aspx",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\CanjeVoucher.aspx",
@@ -101,15 +168,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\Site.Master",
               "RelativeDocumentMoniker": "tp-web-equipo-17B\\Site.Master",
               "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Escritorio\\Nueva carpeta (9)\\tp-web-equipo-17B\\tp-web-equipo-17B\\Site.Master",
               "RelativeToolTip": "tp-web-equipo-17B\\Site.Master",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-27T04:15:43.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T04:15:43.78Z"
             }
           ]
         }
