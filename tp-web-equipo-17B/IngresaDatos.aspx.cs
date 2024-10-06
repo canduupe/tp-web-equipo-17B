@@ -11,8 +11,16 @@ namespace tp_web_equipo_17B
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if(!IsPostBack)
-            txtCP.Text = "****";
+            if (!IsPostBack)
+            {
+                txtCP.Text = "****";
+                txtApellido.Text = "Apellido...";
+                txtCiudad.Text = "Ciudad...";
+                txtDireccion.Text = "Direccion...";
+                txtDNI.Text = "DNI";
+                txtMail.Text = "E-MAIl";
+                txtNombre.Text = "Nombre...";
+            }
         }
     }
 }

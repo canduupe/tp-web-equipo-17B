@@ -10,7 +10,7 @@
         <asp:Label ID="LblVoucher" runat="server" Text="Ingresá el código de tu voucher!"></asp:Label>
     </div>
     <div>
-        <asp:TextBox ID="TextVoucher" CssClass="form-control" runat="server"></asp:TextBox>
+        <asp:TextBox ID="TextVoucher"  AutoPostBack="true"  CssClass ="form-control" runat="server"></asp:TextBox>
     </div>
     <div>
         <asp:Button ID="BtnVoucher" CssClass="Boton  btn btn-primary" runat="server" OnClick="BtnVoucher_Click" Text="Ingresar" />

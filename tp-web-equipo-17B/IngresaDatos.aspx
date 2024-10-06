@@ -6,26 +6,26 @@
     <table>
             <tr>
                 <td><asp:Label ID="lblDNI" runat="server" Text="DNI"></asp:Label></td>
-                <td><asp:TextBox ID="txtDNI" runat="server"></asp:TextBox></td>
+                <td><asp:TextBox ID="txtDNI"   AutoPostBack="true"  runat="server"></asp:TextBox></td>
             </tr>
 
             <tr>
                 <td><asp:Label ID="lblNombre" runat="server" Text="Nombre"></asp:Label></td>
-                <td><asp:TextBox ID="txtNombre" runat="server"></asp:TextBox></td>
+                <td><asp:TextBox ID="txtNombre"   AutoPostBack="true"    runat="server"></asp:TextBox></td>
 
                 <td><asp:Label ID="lblApellido" runat="server" Text="Apellido"></asp:Label></td>
-                <td><asp:TextBox ID="txtApellido" runat="server"></asp:TextBox></td>
+                <td><asp:TextBox ID="txtApellido"   AutoPostBack="true" runat="server"></asp:TextBox></td>
 
                 <td><asp:Label ID="lblMail" runat="server" Text="Mail"></asp:Label></td>
-                <td><asp:TextBox ID="txtMail" runat="server"></asp:TextBox></td>
+                <td><asp:TextBox ID="txtMail" AutoPostBack="true"  runat ="server"></asp:TextBox></td>
             </tr>
 
             <tr>
                 <td><asp:Label ID="lblDireccion" runat="server" Text="Dirección"></asp:Label></td>
-                <td><asp:TextBox ID="txtDireccion" runat="server"></asp:TextBox></td>
+                <td><asp:TextBox ID="txtDireccion"   AutoPostBack="true" runat="server"></asp:TextBox></td>
 
                 <td><asp:Label ID="lblCiudad" runat="server" Text="Ciudad"></asp:Label></td>
-                <td><asp:TextBox ID="txtCiudad" runat="server"></asp:TextBox></td>
+                <td><asp:TextBox ID="txtCiudad"  AutoPostBack="true"  runat="server"></asp:TextBox></td>
 
                 <td><asp:Label ID="lblCP" runat="server" Text="CP"></asp:Label></td>
                 <td><asp:TextBox ID="txtCP" AutoPostBack="true"  runat="server"></asp:TextBox></td>
