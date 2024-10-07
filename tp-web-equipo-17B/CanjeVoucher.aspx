@@ -7,10 +7,10 @@
     <div class="col-2"></div>   
     <div class="col">
     <div>
-        <asp:Label ID="LblVoucher" runat="server" Text="Ingresá el código de tu voucher!"></asp:Label>
+        <h1 class="text-center"><b> Canjea tu Voucher :D  </b></h1>
     </div>
-    <div>
-        <asp:TextBox ID="TextVoucher"  AutoPostBack="true"  CssClass ="form-control" runat="server"></asp:TextBox>
+    <div class ="Boton">
+        <asp:TextBox ID="TextVoucher"  AutoPostBack="true"  CssClass ="form-control" runat="server" ></asp:TextBox>
     </div>
     <div>
         <asp:Button ID="BtnVoucher" CssClass="Boton  btn btn-primary" runat="server" OnClick="BtnVoucher_Click" Text="Ingresar" />
