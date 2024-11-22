@@ -32,13 +32,13 @@ namespace Negocio
                         Direccion = (string)datos.Lector["direccion"],
                         Ciudad = (string)datos.Lector["ciudad"],
                         Cp = (int)datos.Lector["cp"]
-                        
+
                     };
                     lista.Add(cliente);
-                    
+
 
                 }
-                    return lista;
+                return lista;
 
             }
             catch (Exception ex)
@@ -63,11 +63,11 @@ namespace Negocio
 
                 datos.setearParametro("@Doc", cli.Documento);
                 datos.setearParametro("@Nomb", cli.Nombre);
-                datos.setearParametro("@Ape",cli.Apellido);
-                datos.setearParametro("@mail",cli.Email);
+                datos.setearParametro("@Ape", cli.Apellido);
+                datos.setearParametro("@mail", cli.Email);
                 datos.setearParametro("@direc", cli.Direccion);
-                datos.setearParametro("@ciu",cli.Ciudad);
-                datos.setearParametro("@CP",cli.Cp);
+                datos.setearParametro("@ciu", cli.Ciudad);
+                datos.setearParametro("@CP", cli.Cp);
 
                 datos.realizarAccion();
 
@@ -85,6 +85,39 @@ namespace Negocio
 
         }
 
+        public bool ObteneCliente(Cliente cliente)
+        {
+            AccesoDatos datos = new AccesoDatos();
 
+            try
+            {
+                datos.setearConsulta("Select Id, Nombre from Clientes where Nombre = @Nombre");
+                datos.setearParametro("@Nombre", cliente.Nombre);
+
+                datos.realizarLectura();
+
+                if (datos.Lector.Read())
+                {
+                    cliente.Id = (int)datos.Lector["Id"];
+                    return true;
+                }
+                return false;
+
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+
+
+
+
+        }
     }
 }

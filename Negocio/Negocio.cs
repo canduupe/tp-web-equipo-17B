@@ -8,7 +8,7 @@ using static System.Net.Mime.MediaTypeNames;
 using Dominio;
 
 
-namespace Negocio
+/*namespace Negocio
 {
     public class negocio
     {
@@ -112,7 +112,7 @@ namespace Negocio
                         {
                             URlImagen = datos.Lector["ImagenUrl"] as string
                         }*/
-                        Imagenes = new List<Imagen>(),
+                     /*   Imagenes = new List<Imagen>();
                     };
 
                     lista.Add(aux);
@@ -131,9 +131,9 @@ namespace Negocio
 
         }
 
+*/
 
-
-
+/*
 
         public void agregar(Articulo art)
         {
@@ -177,7 +177,7 @@ namespace Negocio
                 datos.setearParametro("@IdMar", articulo.Marca.Id);
                 datos.setearParametro("@Idcate", articulo.Categoria.Id);
                 datos.setearParametro("@Prec", articulo.Precio);
-                datos.setearParametro("@ID", articulo.Id);
+                datos.setearParametro("@ID", articulo.IdArticulo);
 
                 datos.realizarAccion();
             }
@@ -209,3 +209,4 @@ namespace Negocio
 
     } 
 }
+*/

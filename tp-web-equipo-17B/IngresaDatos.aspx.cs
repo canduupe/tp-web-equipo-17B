@@ -34,6 +34,7 @@ namespace tp_web_equipo_17B
 
                 Cliente cliente = new Cliente();
                 ClienteNegocio negocio = new ClienteNegocio();
+                VoucherNegocio voucherNegocio = new VoucherNegocio();
 
                 if (!Regex.IsMatch(txtDNI.Text, @"^\d+$"))
                 {
@@ -86,9 +87,27 @@ namespace tp_web_equipo_17B
                 cliente.Cp = int.Parse(txtCP.Text);
                 cliente.Email  =  txtMail.Text;
 
-               negocio.agregar(cliente);
+                if (CheckBoxAcepto.Checked)
+                {
+                    negocio.agregar(cliente);
+                    //int IdVoucher = int.Parse(Session["IdVoucher"].ToString());
+                    //voucherNegocio.Canjeado(IdVoucher);
+                    negocio.ObteneCliente(cliente);
+                    Session.Add("IdCliente", cliente.Id);
 
-                Response.Redirect("RegistroExitoso.aspx", false);
+                    Response.Redirect("RegistroExitoso.aspx", false);
+
+                    int IdVoucher = int.Parse(Session["IdVoucher"].ToString());
+                    int IdCliente = int.Parse(Session["IdCliente"].ToString());
+                    int IdArticulo = int.Parse(Request.QueryString["ida"].ToString());
+
+                    voucherNegocio.Canjeado(IdVoucher, IdCliente, IdArticulo);
+                }
+                if (!CheckBoxAcepto.Checked) 
+                {
+                    lblAceptoTerminos.Text = "DEBE ACEPTAR LOS TERMINOS Y CONDICIONES PARA CANJEAR";
+                    lblAceptoTerminos.CssClass = "text-danger";
+                }
 
             }
             catch (Exception ex)

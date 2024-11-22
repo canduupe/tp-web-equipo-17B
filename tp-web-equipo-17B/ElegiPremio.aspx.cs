@@ -15,14 +15,15 @@ namespace tp_web_equipo_17B
         public List<Articulo> ListaArticulos { get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
-             negocio neg = new negocio();
-            ListaArticulos = neg.ListarConSP();
+            ArticuloNegocio neg = new ArticuloNegocio();
+            ListaArticulos = neg.ListarSp();
 
         }
 
         protected void BtnCargaDatos_Click(object sender, EventArgs e)
         {
-            Response.Redirect("IngresaDatos.aspx",false);
+            
+            
         }
     }
 }

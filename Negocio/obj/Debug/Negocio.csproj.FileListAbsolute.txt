@@ -7,3 +7,12 @@ C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocio\b
 C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocio\obj\Debug\Negocio.csproj.Up2Date
 C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocio\obj\Debug\Negocio.dll
 C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (9)\tp-web-equipo-17B\Negocio\obj\Debug\Negocio.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (22)\tp-web-equipo-17B\Negocio\bin\Debug\Negocio.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (22)\tp-web-equipo-17B\Negocio\bin\Debug\Negocio.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (22)\tp-web-equipo-17B\Negocio\bin\Debug\Dominio.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (22)\tp-web-equipo-17B\Negocio\bin\Debug\Dominio.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (22)\tp-web-equipo-17B\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (22)\tp-web-equipo-17B\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (22)\tp-web-equipo-17B\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (22)\tp-web-equipo-17B\Negocio\obj\Debug\Negocio.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta (22)\tp-web-equipo-17B\Negocio\obj\Debug\Negocio.pdb

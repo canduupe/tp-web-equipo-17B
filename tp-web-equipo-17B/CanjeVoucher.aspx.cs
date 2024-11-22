@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Dominio;
+using Negocio;
+using System;
 using System.Collections.Generic;
 using System.Drawing.Printing;
 using System.Linq;
@@ -26,7 +28,7 @@ namespace tp_web_equipo_17B
         protected void BtnVoucher_Click(object sender, EventArgs e)
         {
 
-            string voucher = TextVoucher.Text;
+            /*string voucher = TextVoucher.Text;
             if (voucherValidado(voucher))
             {
                
@@ -38,9 +40,34 @@ namespace tp_web_equipo_17B
                 
                 LblCanjenado.Text = "codigo rechazado";
                 LblCanjenado.CssClass = "text-danger"; 
+            }*/
+
+            VoucherNegocio negocio = new VoucherNegocio();  
+            Vouchers vouchers = new Vouchers();
+            try
+            {
+                vouchers.CodigoVaucher = TextVoucher.Text;
+                if (negocio.ValidarVoucher(vouchers))
+                {
+                    Session.Add("IdVoucher", vouchers.Id);
+                    Session.Add("CodigoV", vouchers.CodigoVaucher);
+                    LblCanjenado.Text = "Codigo aceptado.";
+                    Response.Redirect("ElegiPremio.aspx", false);
+                }
+                else
+                {
+
+                    LblCanjenado.Text = "codigo rechazado";
+                    LblCanjenado.CssClass = "text-danger";
+
+
+                }
             }
+            catch (Exception ex)
+            {
 
-
+                throw ex;
+            }
    
 
         }
