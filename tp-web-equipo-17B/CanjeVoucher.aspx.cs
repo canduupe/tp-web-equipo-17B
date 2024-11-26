@@ -42,32 +42,43 @@ namespace tp_web_equipo_17B
                 LblCanjenado.CssClass = "text-danger"; 
             }*/
 
-            VoucherNegocio negocio = new VoucherNegocio();  
-            Vouchers vouchers = new Vouchers();
-            try
-            {
-                vouchers.CodigoVaucher = TextVoucher.Text;
-                if (negocio.ValidarVoucher(vouchers))
-                {
-                    Session.Add("IdVoucher", vouchers.Id);
-                    Session.Add("CodigoV", vouchers.CodigoVaucher);
-                    LblCanjenado.Text = "Codigo aceptado.";
-                    Response.Redirect("ElegiPremio.aspx", false);
-                }
-                else
-                {
 
-                    LblCanjenado.Text = "codigo rechazado";
-                    LblCanjenado.CssClass = "text-danger";
-
-
-                }
-            }
-            catch (Exception ex)
+            if(TextVoucher.Text != "")
             {
 
-                throw ex;
+                VoucherNegocio negocio = new VoucherNegocio();  
+                Vouchers vouchers = new Vouchers();
+                try
+                {
+                    vouchers.CodigoVaucher = TextVoucher.Text;
+                    if (negocio.ValidarVoucher(vouchers))
+                    {
+                        Session.Add("IdVoucher", vouchers.Id);
+                        Session.Add("CodigoV", vouchers.CodigoVaucher);
+                        LblCanjenado.Text = "Codigo aceptado.";
+                        Response.Redirect("ElegiPremio.aspx", false);
+                    }
+                    else
+                    {
+
+                        LblCanjenado.Text = "codigo rechazado";
+                        LblCanjenado.CssClass = "text-danger";
+
+
+                    }
+                }
+                catch (Exception ex)
+                {
+
+                    throw ex;
+                }
+            
             }
+            else
+            {
+                LblCanjenado.Text = "DEBE INGRESAR UN CODIGO PARA CANJEAR";
+            }
+
    
 
         }
